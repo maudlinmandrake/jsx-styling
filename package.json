@@ -1,7 +1,7 @@
 {
   "name": "jsx-attributes-and-styling",
   "version": "1.0.0",
-  "description": "",
+  "description": "How to style in JSX",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
